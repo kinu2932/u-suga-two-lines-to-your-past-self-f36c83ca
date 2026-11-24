@@ -7,7 +7,7 @@ import os
 
 ENTRY = (
     "Don't send that 2 a.m. text to Maya from the kitchen floor \u2014 put the phone down and go to sleep.\n"
-    "The message you never sent is the only reason she still answers when you call, ten years on.\n"
+    "Because you didn't send it, she never read the words you couldn't take back — and ten years later, she still calls you first.\n"
 )
 
 

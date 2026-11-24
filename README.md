@@ -9,7 +9,7 @@ specific moment, and one sentence on why that moment mattered — to
 ## The entry
 
 > Don't send that 2 a.m. text to Maya from the kitchen floor — put the phone down and go to sleep.
-> The message you never sent is the only reason she still answers when you call, ten years on.
+> Because you didn't send it, she never read the words you couldn't take back — and ten years later, she still calls you first.
 
 ## Run
 
