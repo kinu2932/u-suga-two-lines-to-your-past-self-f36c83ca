@@ -1,6 +1,8 @@
 # Two Lines to Your Past Self
 
 [![make.fun](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)](https://make.fun/c/u-suga-two-lines-to-your-past-self-f36c83ca)
+[![rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/kinu2932/u-suga-two-lines-to-your-past-self-f36c83ca/rank.svg)](https://make.fun/c/u-suga-two-lines-to-your-past-self-f36c83ca)
+[![reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/kinu2932/u-suga-two-lines-to-your-past-self-f36c83ca/reward.svg)](https://make.fun/c/u-suga-two-lines-to-your-past-self-f36c83ca)
 
 A program that writes two lines to its past self — a warning about one
 specific moment, and one sentence on why that moment mattered — to
